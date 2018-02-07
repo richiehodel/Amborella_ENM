@@ -1,0 +1,40 @@
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc8467212_4000 --from-bp 8465212 --to-bp 8469212
+vcftools --vcf chr 3 _loc8467212_4000.recode.vcf --012 --out chr 3 _loc8467212_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc8467637_4000 --from-bp 8465637 --to-bp 8469637
+vcftools --vcf chr 3 _loc8467637_4000.recode.vcf --012 --out chr 3 _loc8467637_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc10723535_4000 --from-bp 10721535 --to-bp 10725535
+vcftools --vcf chr 3 _loc10723535_4000.recode.vcf --012 --out chr 3 _loc10723535_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc10821156_4000 --from-bp 10819156 --to-bp 10823156
+vcftools --vcf chr 3 _loc10821156_4000.recode.vcf --012 --out chr 3 _loc10821156_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc10822005_4000 --from-bp 10820005 --to-bp 10824005
+vcftools --vcf chr 3 _loc10822005_4000.recode.vcf --012 --out chr 3 _loc10822005_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc20737770_4000 --from-bp 20735770 --to-bp 20739770
+vcftools --vcf chr 3 _loc20737770_4000.recode.vcf --012 --out chr 3 _loc20737770_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc20738618_4000 --from-bp 20736618 --to-bp 20740618
+vcftools --vcf chr 3 _loc20738618_4000.recode.vcf --012 --out chr 3 _loc20738618_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc36316412_4000 --from-bp 36314412 --to-bp 36318412
+vcftools --vcf chr 3 _loc36316412_4000.recode.vcf --012 --out chr 3 _loc36316412_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc40601984_4000 --from-bp 40599984 --to-bp 40603984
+vcftools --vcf chr 3 _loc40601984_4000.recode.vcf --012 --out chr 3 _loc40601984_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc40603680_4000 --from-bp 40601680 --to-bp 40605680
+vcftools --vcf chr 3 _loc40603680_4000.recode.vcf --012 --out chr 3 _loc40603680_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc40604104_4000 --from-bp 40602104 --to-bp 40606104
+vcftools --vcf chr 3 _loc40604104_4000.recode.vcf --012 --out chr 3 _loc40604104_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc40608772_4000 --from-bp 40606772 --to-bp 40610772
+vcftools --vcf chr 3 _loc40608772_4000.recode.vcf --012 --out chr 3 _loc40608772_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc40609196_4000 --from-bp 40607196 --to-bp 40611196
+vcftools --vcf chr 3 _loc40609196_4000.recode.vcf --012 --out chr 3 _loc40609196_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc40610472_4000 --from-bp 40608472 --to-bp 40612472
+vcftools --vcf chr 3 _loc40610472_4000.recode.vcf --012 --out chr 3 _loc40610472_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc40610896_4000 --from-bp 40608896 --to-bp 40612896
+vcftools --vcf chr 3 _loc40610896_4000.recode.vcf --012 --out chr 3 _loc40610896_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc40611320_4000 --from-bp 40609320 --to-bp 40613320
+vcftools --vcf chr 3 _loc40611320_4000.recode.vcf --012 --out chr 3 _loc40611320_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc40617264_4000 --from-bp 40615264 --to-bp 40619264
+vcftools --vcf chr 3 _loc40617264_4000.recode.vcf --012 --out chr 3 _loc40617264_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc40617688_4000 --from-bp 40615688 --to-bp 40619688
+vcftools --vcf chr 3 _loc40617688_4000.recode.vcf --012 --out chr 3 _loc40617688_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc51454912_4000 --from-bp 51452912 --to-bp 51456912
+vcftools --vcf chr 3 _loc51454912_4000.recode.vcf --012 --out chr 3 _loc51454912_4000
+vcftools --vcf out_all12_freebayes_chr3.recode.vcf --chr AT_V4_CHR03 --recode --out chr3_loc57877112_4000 --from-bp 57875112 --to-bp 57879112
+vcftools --vcf chr 3 _loc57877112_4000.recode.vcf --012 --out chr 3 _loc57877112_4000

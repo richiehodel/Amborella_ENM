@@ -1,0 +1,2 @@
+vcftools --vcf out_all12_freebayes_chr2.recode.vcf --chr AT_V4_CHR02 --recode --out chr2_locNA_4000 --from-bp NA --to-bp NA
+vcftools --vcf chr 2 _locNA_4000.recode.vcf --012 --out chr 2 _locNA_4000

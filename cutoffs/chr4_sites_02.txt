@@ -1,0 +1,3 @@
+SweeD_4.Position SweeD_4.Likelihood
+35745032 2.049785
+57718940 2.220643

@@ -1,0 +1,408 @@
+chr1_loc922265
+Temperature Seasonality
+0.0388512317788038
+chr1_loc922265
+North Aspect Slope
+0.0122540284586072
+chr1_loc922265
+South Aspect Slope
+0.0447191292683792
+chr1_loc42679852
+West Aspect Slope
+0.0343910001284218
+chr1_loc42681080
+West Aspect Slope
+0.0416085800277723
+chr1_loc42682308
+West Aspect Slope
+0.0436494283996385
+chr1_loc42683124
+Isothermality
+0.0332901358344755
+chr3_loc8467212
+Annual Mean Temperature (ºC)
+0.0446567160239631
+chr3_loc8467212
+East Aspect Slope
+0.0417203930722125
+chr3_loc8467637
+East Aspect Slope
+0.0346534752940786
+chr3_loc10723535
+Mean Diurnal Temperature Range (ºC)
+0.00480699142940398
+chr3_loc10723535
+Annual Precipitation (mm)
+0.0233698529628814
+chr3_loc10723535
+Precipitation Seasonality
+0.0190465207136798
+chr3_loc10821156
+Mean Diurnal Temperature Range (ºC)
+0.0347330577755458
+chr3_loc10821156
+Precipitation Seasonality
+0.0368869935056838
+chr3_loc10822005
+Mean Diurnal Temperature Range (ºC)
+0.0305554786871677
+chr3_loc10822005
+Precipitation Seasonality
+0.0230564878715014
+chr3_loc20737770
+Mean Diurnal Temperature Range (ºC)
+0.0480559188695793
+chr3_loc20738618
+Mean Diurnal Temperature Range (ºC)
+0.0480559188695793
+chr3_loc36316412
+Mean Diurnal Temperature Range (ºC)
+0.0292330550189443
+chr3_loc36316412
+South Aspect Slope
+0.0205187713889034
+chr3_loc36316412
+Habitat Suitability
+0.0191591776808649
+chr3_loc40601984
+West Aspect Slope
+0.0115233491647042
+chr3_loc40603680
+Isothermality
+0.0372442949736643
+chr3_loc40603680
+West Aspect Slope
+0.0100302599324576
+chr3_loc40604104
+Elevation (m)
+0.0452942759633088
+chr3_loc40604104
+Annual Mean Temperature (ºC)
+0.0476780166155648
+chr3_loc40604104
+Isothermality
+0.0133314816801741
+chr3_loc40604104
+West Aspect Slope
+0.00830171412960118
+chr3_loc40608772
+Elevation (m)
+0.0320005764061856
+chr3_loc40608772
+Annual Mean Temperature (ºC)
+0.0296936703746402
+chr3_loc40608772
+East Aspect Slope
+0.046213389062696
+chr3_loc40609196
+Elevation (m)
+0.0320005764061856
+chr3_loc40609196
+Annual Mean Temperature (ºC)
+0.0296936703746402
+chr3_loc40609196
+East Aspect Slope
+0.046213389062696
+chr3_loc40610472
+Elevation (m)
+0.0320005764061856
+chr3_loc40610472
+Annual Mean Temperature (ºC)
+0.0296936703746402
+chr3_loc40610472
+East Aspect Slope
+0.046213389062696
+chr3_loc40610896
+Elevation (m)
+0.0320005764061856
+chr3_loc40610896
+Annual Mean Temperature (ºC)
+0.0296936703746402
+chr3_loc40610896
+East Aspect Slope
+0.046213389062696
+chr3_loc40611320
+Elevation (m)
+0.0320005764061856
+chr3_loc40611320
+Annual Mean Temperature (ºC)
+0.0296936703746402
+chr3_loc40611320
+East Aspect Slope
+0.046213389062696
+chr3_loc40617264
+Elevation (m)
+0.00961724394795588
+chr3_loc40617264
+Annual Mean Temperature (ºC)
+0.00660792859765486
+chr3_loc40617264
+Isothermality
+0.0275520090156476
+chr3_loc40617264
+Temperature Seasonality
+0.0136768336758347
+chr3_loc40617264
+West Aspect Slope
+0.020719814932672
+chr3_loc40617264
+East Aspect Slope
+0.0210226039262887
+chr3_loc40617688
+Elevation (m)
+0.00961724394795588
+chr3_loc40617688
+Annual Mean Temperature (ºC)
+0.00660792859765486
+chr3_loc40617688
+Isothermality
+0.0275520090156476
+chr3_loc40617688
+Temperature Seasonality
+0.0136768336758347
+chr3_loc40617688
+West Aspect Slope
+0.020719814932672
+chr3_loc40617688
+East Aspect Slope
+0.0210226039262887
+chr3_loc51454912
+Mean Diurnal Temperature Range (ºC)
+0.0240921100403358
+chr3_loc51454912
+Precipitation Seasonality
+0.0394122393577265
+chr3_loc57877112
+Mean Diurnal Temperature Range (ºC)
+0.00543532699451995
+chr3_loc57877112
+Precipitation Seasonality
+0.0126709587130744
+chr3_loc57877112
+South Aspect Slope
+0.0317031050592615
+chr6_loc40563488
+Soil Type
+0.00407066300668989
+chr7_loc2225835
+Mean Diurnal Temperature Range (ºC)
+0.0407910946776492
+chr7_loc2225835
+Precipitation Seasonality
+0.0413411750081173
+chr7_loc2225835
+South Aspect Slope
+0.028453761963915
+chr7_loc14758988
+Soil Type
+0.0401132594128777
+chr7_loc26844222
+South Aspect Slope
+0.0298474349573027
+chr8_loc4495621
+Annual Precipitation (mm)
+0.0287550259578508
+chr8_loc4501173
+Isothermality
+0.016197070786618
+chr8_loc8442902
+Elevation (m)
+0.0324552891076067
+chr8_loc8442902
+Annual Mean Temperature (ºC)
+0.0252357610965013
+chr8_loc8518467
+Mean Diurnal Temperature Range (ºC)
+0.030974652372405
+chr8_loc8518467
+Temperature Seasonality
+0.0162894640733034
+chr8_loc8518467
+Precipitation Seasonality
+0.00604061209065236
+chr8_loc8518776
+Temperature Seasonality
+0.0425536304085443
+chr8_loc8518776
+Precipitation Seasonality
+0.0199431158434344
+chr8_loc8519084
+Temperature Seasonality
+0.0425536304085443
+chr8_loc8519084
+Precipitation Seasonality
+0.0199431158434344
+chr8_loc8519393
+Temperature Seasonality
+0.0425536304085443
+chr8_loc8519393
+Precipitation Seasonality
+0.0199431158434344
+chr8_loc8527720
+West Aspect Slope
+0.0494716916529755
+chr8_loc8533580
+Temperature Seasonality
+0.012643928546604
+chr8_loc8533580
+Annual Precipitation (mm)
+0.013286654718859
+chr8_loc8533580
+North Aspect Slope
+0.0156305909822093
+chr8_loc13564066
+East Aspect Slope
+0.020502112452834
+chr8_loc13564374
+East Aspect Slope
+0.0132734794122756
+chr8_loc13564682
+East Aspect Slope
+0.00562862917572081
+chr8_loc13564682
+Habitat Suitability
+0.0341211292227115
+chr8_loc13564991
+East Aspect Slope
+0.00562862917572081
+chr8_loc13564991
+Habitat Suitability
+0.0341211292227115
+chr8_loc13565299
+East Aspect Slope
+0.00562862917572081
+chr8_loc13565299
+Habitat Suitability
+0.0341211292227115
+chr8_loc13566225
+East Aspect Slope
+0.00562862917572081
+chr8_loc13566225
+Habitat Suitability
+0.0341211292227115
+chr8_loc13566841
+East Aspect Slope
+0.00562862917572081
+chr8_loc13566841
+Habitat Suitability
+0.0341211292227115
+chr8_loc13567150
+East Aspect Slope
+0.00562862917572081
+chr8_loc13567150
+Habitat Suitability
+0.0341211292227115
+chr8_loc13567458
+East Aspect Slope
+0.00562862917572081
+chr8_loc13567458
+Habitat Suitability
+0.0341211292227115
+chr8_loc13567767
+East Aspect Slope
+0.0424752192498147
+chr8_loc13568075
+East Aspect Slope
+0.0491159538857689
+chr8_loc13569000
+Mean Diurnal Temperature Range (ºC)
+0.0315570743676117
+chr8_loc13569309
+Mean Diurnal Temperature Range (ºC)
+0.0315570743676117
+chr9_loc3736000
+Mean Diurnal Temperature Range (ºC)
+0.00700679964824253
+chr9_loc3736000
+Annual Precipitation (mm)
+0.02104925112277
+chr9_loc3736000
+Precipitation Seasonality
+0.0129031510981332
+chr9_loc3736000
+South Aspect Slope
+0.0108584851997943
+chr9_loc51668440
+Temperature Seasonality
+0.0379639421906117
+chr9_loc51668440
+Annual Precipitation (mm)
+0.0457400429796364
+chr10_loc31566252
+Temperature Seasonality
+0.0276302503228978
+chr10_loc31566252
+Precipitation Seasonality
+0.0313706380862034
+chr10_loc31566604
+Temperature Seasonality
+0.0276302503228978
+chr10_loc31566604
+Precipitation Seasonality
+0.0313706380862034
+chr10_loc31566952
+Temperature Seasonality
+0.0324250394408949
+chr10_loc31567304
+Temperature Seasonality
+0.0324250394408949
+chr10_loc31567656
+Temperature Seasonality
+0.0324250394408949
+chr10_loc31568004
+Temperature Seasonality
+0.0324250394408949
+chr10_loc31568356
+Temperature Seasonality
+0.0267441930816947
+chr10_loc31568356
+Precipitation Seasonality
+0.0475373520363041
+chr11_loc12174648
+South Aspect Slope
+0.0309799730825635
+chr11_loc29246036
+Mean Diurnal Temperature Range (ºC)
+0.0209335434398607
+chr11_loc29246036
+South Aspect Slope
+0.0134770527234621
+chr13_loc18452680
+Temperature Seasonality
+0.0105843013718104
+chr13_loc18452680
+Soil Type
+0.0399437265816148
+chr13_loc18452680
+North Aspect Slope
+0.0358596400289221
+chr13_loc18452680
+West Aspect Slope
+0.0123162249009481
+chr13_loc18454068
+Soil Type
+0.0491773757703059
+chr13_loc18454068
+West Aspect Slope
+0.0131649479490785
+chr13_loc18454530
+Temperature Seasonality
+0.0379328462725371
+chr13_loc18454530
+West Aspect Slope
+0.0148534063344946
+chr13_loc29460064
+Annual Mean Temperature (ºC)
+0.045351395856717
+chr13_loc29460064
+Precipitation Seasonality
+0.0404595389134856
+chr13_loc29460064
+East Aspect Slope
+0.00359204201113442
+chr13_loc30114006
+Elevation (m)
+0.0467420011905719
+chr13_loc30114006
+East Aspect Slope
+0.0442398942539024

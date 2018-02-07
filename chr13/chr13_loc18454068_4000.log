@@ -1,0 +1,14 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf chr13_loc18454068_4000.recode.vcf
+	--012
+	--out chr13_loc18454068_4000
+
+After filtering, kept 12 out of 12 Individuals
+Writing 012 matrix files ... 	012: Only outputting biallelic loci.
+Done.
+After filtering, kept 35 out of a possible 35 Sites
+Run Time = 0.00 seconds

@@ -1,0 +1,10 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf chr8_loc22906704_4000.recode.vcf
+	--012
+	--out chr8_loc22906704_4000
+
+Error: Can't determine file type of chr8_loc22906704_4000.recode.vcf

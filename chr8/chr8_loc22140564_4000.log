@@ -1,0 +1,14 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf chr8_loc22140564_4000.recode.vcf
+	--012
+	--out chr8_loc22140564_4000
+
+After filtering, kept 12 out of 12 Individuals
+Writing 012 matrix files ... Done.
+After filtering, kept 0 out of a possible 0 Sites
+File does not contain any sites
+Run Time = 0.00 seconds

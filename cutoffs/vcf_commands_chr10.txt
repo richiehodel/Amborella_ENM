@@ -1,0 +1,18 @@
+vcftools --vcf out_all12_freebayes_chr10.recode.vcf --chr AT_V4_CHR10 --recode --out chr10_loc31565552_4000 --from-bp 31563552 --to-bp 31567552
+vcftools --vcf chr 10 _loc31565552_4000.recode.vcf --012 --out chr 10 _loc31565552_4000
+vcftools --vcf out_all12_freebayes_chr10.recode.vcf --chr AT_V4_CHR10 --recode --out chr10_loc31565900_4000 --from-bp 31563900 --to-bp 31567900
+vcftools --vcf chr 10 _loc31565900_4000.recode.vcf --012 --out chr 10 _loc31565900_4000
+vcftools --vcf out_all12_freebayes_chr10.recode.vcf --chr AT_V4_CHR10 --recode --out chr10_loc31566252_4000 --from-bp 31564252 --to-bp 31568252
+vcftools --vcf chr 10 _loc31566252_4000.recode.vcf --012 --out chr 10 _loc31566252_4000
+vcftools --vcf out_all12_freebayes_chr10.recode.vcf --chr AT_V4_CHR10 --recode --out chr10_loc31566604_4000 --from-bp 31564604 --to-bp 31568604
+vcftools --vcf chr 10 _loc31566604_4000.recode.vcf --012 --out chr 10 _loc31566604_4000
+vcftools --vcf out_all12_freebayes_chr10.recode.vcf --chr AT_V4_CHR10 --recode --out chr10_loc31566952_4000 --from-bp 31564952 --to-bp 31568952
+vcftools --vcf chr 10 _loc31566952_4000.recode.vcf --012 --out chr 10 _loc31566952_4000
+vcftools --vcf out_all12_freebayes_chr10.recode.vcf --chr AT_V4_CHR10 --recode --out chr10_loc31567304_4000 --from-bp 31565304 --to-bp 31569304
+vcftools --vcf chr 10 _loc31567304_4000.recode.vcf --012 --out chr 10 _loc31567304_4000
+vcftools --vcf out_all12_freebayes_chr10.recode.vcf --chr AT_V4_CHR10 --recode --out chr10_loc31567656_4000 --from-bp 31565656 --to-bp 31569656
+vcftools --vcf chr 10 _loc31567656_4000.recode.vcf --012 --out chr 10 _loc31567656_4000
+vcftools --vcf out_all12_freebayes_chr10.recode.vcf --chr AT_V4_CHR10 --recode --out chr10_loc31568004_4000 --from-bp 31566004 --to-bp 31570004
+vcftools --vcf chr 10 _loc31568004_4000.recode.vcf --012 --out chr 10 _loc31568004_4000
+vcftools --vcf out_all12_freebayes_chr10.recode.vcf --chr AT_V4_CHR10 --recode --out chr10_loc31568356_4000 --from-bp 31566356 --to-bp 31570356
+vcftools --vcf chr 10 _loc31568356_4000.recode.vcf --012 --out chr 10 _loc31568356_4000

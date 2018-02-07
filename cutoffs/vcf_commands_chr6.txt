@@ -1,0 +1,6 @@
+vcftools --vcf out_all12_freebayes_chr6.recode.vcf --chr AT_V4_CHR06 --recode --out chr6_loc40563488_4000 --from-bp 40561488 --to-bp 40565488
+vcftools --vcf chr 6 _loc40563488_4000.recode.vcf --012 --out chr 6 _loc40563488_4000
+vcftools --vcf out_all12_freebayes_chr6.recode.vcf --chr AT_V4_CHR06 --recode --out chr6_loc40563848_4000 --from-bp 40561848 --to-bp 40565848
+vcftools --vcf chr 6 _loc40563848_4000.recode.vcf --012 --out chr 6 _loc40563848_4000
+vcftools --vcf out_all12_freebayes_chr6.recode.vcf --chr AT_V4_CHR06 --recode --out chr6_loc40564212_4000 --from-bp 40562212 --to-bp 40566212
+vcftools --vcf chr 6 _loc40564212_4000.recode.vcf --012 --out chr 6 _loc40564212_4000

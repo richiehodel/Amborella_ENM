@@ -1,0 +1,246 @@
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc4493770_4000 --from-bp 4491770 --to-bp 4495770
+vcftools --vcf chr 8 _loc4493770_4000.recode.vcf --012 --out chr 8 _loc4493770_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc4495004_4000 --from-bp 4493004 --to-bp 4497004
+vcftools --vcf chr 8 _loc4495004_4000.recode.vcf --012 --out chr 8 _loc4495004_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc4495313_4000 --from-bp 4493313 --to-bp 4497313
+vcftools --vcf chr 8 _loc4495313_4000.recode.vcf --012 --out chr 8 _loc4495313_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc4495621_4000 --from-bp 4493621 --to-bp 4497621
+vcftools --vcf chr 8 _loc4495621_4000.recode.vcf --012 --out chr 8 _loc4495621_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc4501173_4000 --from-bp 4499173 --to-bp 4503173
+vcftools --vcf chr 8 _loc4501173_4000.recode.vcf --012 --out chr 8 _loc4501173_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8442285_4000 --from-bp 8440285 --to-bp 8444285
+vcftools --vcf chr 8 _loc8442285_4000.recode.vcf --012 --out chr 8 _loc8442285_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8442594_4000 --from-bp 8440594 --to-bp 8444594
+vcftools --vcf chr 8 _loc8442594_4000.recode.vcf --012 --out chr 8 _loc8442594_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8442902_4000 --from-bp 8440902 --to-bp 8444902
+vcftools --vcf chr 8 _loc8442902_4000.recode.vcf --012 --out chr 8 _loc8442902_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8516308_4000 --from-bp 8514308 --to-bp 8518308
+vcftools --vcf chr 8 _loc8516308_4000.recode.vcf --012 --out chr 8 _loc8516308_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8516617_4000 --from-bp 8514617 --to-bp 8518617
+vcftools --vcf chr 8 _loc8516617_4000.recode.vcf --012 --out chr 8 _loc8516617_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8516925_4000 --from-bp 8514925 --to-bp 8518925
+vcftools --vcf chr 8 _loc8516925_4000.recode.vcf --012 --out chr 8 _loc8516925_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8517234_4000 --from-bp 8515234 --to-bp 8519234
+vcftools --vcf chr 8 _loc8517234_4000.recode.vcf --012 --out chr 8 _loc8517234_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8517542_4000 --from-bp 8515542 --to-bp 8519542
+vcftools --vcf chr 8 _loc8517542_4000.recode.vcf --012 --out chr 8 _loc8517542_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8517850_4000 --from-bp 8515850 --to-bp 8519850
+vcftools --vcf chr 8 _loc8517850_4000.recode.vcf --012 --out chr 8 _loc8517850_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8518159_4000 --from-bp 8516159 --to-bp 8520159
+vcftools --vcf chr 8 _loc8518159_4000.recode.vcf --012 --out chr 8 _loc8518159_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8518467_4000 --from-bp 8516467 --to-bp 8520467
+vcftools --vcf chr 8 _loc8518467_4000.recode.vcf --012 --out chr 8 _loc8518467_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8518776_4000 --from-bp 8516776 --to-bp 8520776
+vcftools --vcf chr 8 _loc8518776_4000.recode.vcf --012 --out chr 8 _loc8518776_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8519084_4000 --from-bp 8517084 --to-bp 8521084
+vcftools --vcf chr 8 _loc8519084_4000.recode.vcf --012 --out chr 8 _loc8519084_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8519393_4000 --from-bp 8517393 --to-bp 8521393
+vcftools --vcf chr 8 _loc8519393_4000.recode.vcf --012 --out chr 8 _loc8519393_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8519701_4000 --from-bp 8517701 --to-bp 8521701
+vcftools --vcf chr 8 _loc8519701_4000.recode.vcf --012 --out chr 8 _loc8519701_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8520935_4000 --from-bp 8518935 --to-bp 8522935
+vcftools --vcf chr 8 _loc8520935_4000.recode.vcf --012 --out chr 8 _loc8520935_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8525870_4000 --from-bp 8523870 --to-bp 8527870
+vcftools --vcf chr 8 _loc8525870_4000.recode.vcf --012 --out chr 8 _loc8525870_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8526795_4000 --from-bp 8524795 --to-bp 8528795
+vcftools --vcf chr 8 _loc8526795_4000.recode.vcf --012 --out chr 8 _loc8526795_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8527103_4000 --from-bp 8525103 --to-bp 8529103
+vcftools --vcf chr 8 _loc8527103_4000.recode.vcf --012 --out chr 8 _loc8527103_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8527412_4000 --from-bp 8525412 --to-bp 8529412
+vcftools --vcf chr 8 _loc8527412_4000.recode.vcf --012 --out chr 8 _loc8527412_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8527720_4000 --from-bp 8525720 --to-bp 8529720
+vcftools --vcf chr 8 _loc8527720_4000.recode.vcf --012 --out chr 8 _loc8527720_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8528029_4000 --from-bp 8526029 --to-bp 8530029
+vcftools --vcf chr 8 _loc8528029_4000.recode.vcf --012 --out chr 8 _loc8528029_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8528337_4000 --from-bp 8526337 --to-bp 8530337
+vcftools --vcf chr 8 _loc8528337_4000.recode.vcf --012 --out chr 8 _loc8528337_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8529571_4000 --from-bp 8527571 --to-bp 8531571
+vcftools --vcf chr 8 _loc8529571_4000.recode.vcf --012 --out chr 8 _loc8529571_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8530188_4000 --from-bp 8528188 --to-bp 8532188
+vcftools --vcf chr 8 _loc8530188_4000.recode.vcf --012 --out chr 8 _loc8530188_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8533272_4000 --from-bp 8531272 --to-bp 8535272
+vcftools --vcf chr 8 _loc8533272_4000.recode.vcf --012 --out chr 8 _loc8533272_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8533580_4000 --from-bp 8531580 --to-bp 8535580
+vcftools --vcf chr 8 _loc8533580_4000.recode.vcf --012 --out chr 8 _loc8533580_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8533889_4000 --from-bp 8531889 --to-bp 8535889
+vcftools --vcf chr 8 _loc8533889_4000.recode.vcf --012 --out chr 8 _loc8533889_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8534197_4000 --from-bp 8532197 --to-bp 8536197
+vcftools --vcf chr 8 _loc8534197_4000.recode.vcf --012 --out chr 8 _loc8534197_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8534506_4000 --from-bp 8532506 --to-bp 8536506
+vcftools --vcf chr 8 _loc8534506_4000.recode.vcf --012 --out chr 8 _loc8534506_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8534814_4000 --from-bp 8532814 --to-bp 8536814
+vcftools --vcf chr 8 _loc8534814_4000.recode.vcf --012 --out chr 8 _loc8534814_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8535123_4000 --from-bp 8533123 --to-bp 8537123
+vcftools --vcf chr 8 _loc8535123_4000.recode.vcf --012 --out chr 8 _loc8535123_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8535431_4000 --from-bp 8533431 --to-bp 8537431
+vcftools --vcf chr 8 _loc8535431_4000.recode.vcf --012 --out chr 8 _loc8535431_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8535739_4000 --from-bp 8533739 --to-bp 8537739
+vcftools --vcf chr 8 _loc8535739_4000.recode.vcf --012 --out chr 8 _loc8535739_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8536048_4000 --from-bp 8534048 --to-bp 8538048
+vcftools --vcf chr 8 _loc8536048_4000.recode.vcf --012 --out chr 8 _loc8536048_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8536356_4000 --from-bp 8534356 --to-bp 8538356
+vcftools --vcf chr 8 _loc8536356_4000.recode.vcf --012 --out chr 8 _loc8536356_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8536665_4000 --from-bp 8534665 --to-bp 8538665
+vcftools --vcf chr 8 _loc8536665_4000.recode.vcf --012 --out chr 8 _loc8536665_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc8536973_4000 --from-bp 8534973 --to-bp 8538973
+vcftools --vcf chr 8 _loc8536973_4000.recode.vcf --012 --out chr 8 _loc8536973_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13562523_4000 --from-bp 13560523 --to-bp 13564523
+vcftools --vcf chr 8 _loc13562523_4000.recode.vcf --012 --out chr 8 _loc13562523_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13562832_4000 --from-bp 13560832 --to-bp 13564832
+vcftools --vcf chr 8 _loc13562832_4000.recode.vcf --012 --out chr 8 _loc13562832_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13563140_4000 --from-bp 13561140 --to-bp 13565140
+vcftools --vcf chr 8 _loc13563140_4000.recode.vcf --012 --out chr 8 _loc13563140_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13563449_4000 --from-bp 13561449 --to-bp 13565449
+vcftools --vcf chr 8 _loc13563449_4000.recode.vcf --012 --out chr 8 _loc13563449_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13563757_4000 --from-bp 13561757 --to-bp 13565757
+vcftools --vcf chr 8 _loc13563757_4000.recode.vcf --012 --out chr 8 _loc13563757_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13564066_4000 --from-bp 13562066 --to-bp 13566066
+vcftools --vcf chr 8 _loc13564066_4000.recode.vcf --012 --out chr 8 _loc13564066_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13564374_4000 --from-bp 13562374 --to-bp 13566374
+vcftools --vcf chr 8 _loc13564374_4000.recode.vcf --012 --out chr 8 _loc13564374_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13564682_4000 --from-bp 13562682 --to-bp 13566682
+vcftools --vcf chr 8 _loc13564682_4000.recode.vcf --012 --out chr 8 _loc13564682_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13564991_4000 --from-bp 13562991 --to-bp 13566991
+vcftools --vcf chr 8 _loc13564991_4000.recode.vcf --012 --out chr 8 _loc13564991_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13565299_4000 --from-bp 13563299 --to-bp 13567299
+vcftools --vcf chr 8 _loc13565299_4000.recode.vcf --012 --out chr 8 _loc13565299_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13566225_4000 --from-bp 13564225 --to-bp 13568225
+vcftools --vcf chr 8 _loc13566225_4000.recode.vcf --012 --out chr 8 _loc13566225_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13566841_4000 --from-bp 13564841 --to-bp 13568841
+vcftools --vcf chr 8 _loc13566841_4000.recode.vcf --012 --out chr 8 _loc13566841_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13567150_4000 --from-bp 13565150 --to-bp 13569150
+vcftools --vcf chr 8 _loc13567150_4000.recode.vcf --012 --out chr 8 _loc13567150_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13567458_4000 --from-bp 13565458 --to-bp 13569458
+vcftools --vcf chr 8 _loc13567458_4000.recode.vcf --012 --out chr 8 _loc13567458_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13567767_4000 --from-bp 13565767 --to-bp 13569767
+vcftools --vcf chr 8 _loc13567767_4000.recode.vcf --012 --out chr 8 _loc13567767_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13568075_4000 --from-bp 13566075 --to-bp 13570075
+vcftools --vcf chr 8 _loc13568075_4000.recode.vcf --012 --out chr 8 _loc13568075_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13568384_4000 --from-bp 13566384 --to-bp 13570384
+vcftools --vcf chr 8 _loc13568384_4000.recode.vcf --012 --out chr 8 _loc13568384_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13568692_4000 --from-bp 13566692 --to-bp 13570692
+vcftools --vcf chr 8 _loc13568692_4000.recode.vcf --012 --out chr 8 _loc13568692_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13569000_4000 --from-bp 13567000 --to-bp 13571000
+vcftools --vcf chr 8 _loc13569000_4000.recode.vcf --012 --out chr 8 _loc13569000_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc13569309_4000 --from-bp 13567309 --to-bp 13571309
+vcftools --vcf chr 8 _loc13569309_4000.recode.vcf --012 --out chr 8 _loc13569309_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22135940_4000 --from-bp 22133940 --to-bp 22137940
+vcftools --vcf chr 8 _loc22135940_4000.recode.vcf --012 --out chr 8 _loc22135940_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22136248_4000 --from-bp 22134248 --to-bp 22138248
+vcftools --vcf chr 8 _loc22136248_4000.recode.vcf --012 --out chr 8 _loc22136248_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22136864_4000 --from-bp 22134864 --to-bp 22138864
+vcftools --vcf chr 8 _loc22136864_4000.recode.vcf --012 --out chr 8 _loc22136864_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22137172_4000 --from-bp 22135172 --to-bp 22139172
+vcftools --vcf chr 8 _loc22137172_4000.recode.vcf --012 --out chr 8 _loc22137172_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22139024_4000 --from-bp 22137024 --to-bp 22141024
+vcftools --vcf chr 8 _loc22139024_4000.recode.vcf --012 --out chr 8 _loc22139024_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22139332_4000 --from-bp 22137332 --to-bp 22141332
+vcftools --vcf chr 8 _loc22139332_4000.recode.vcf --012 --out chr 8 _loc22139332_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22139640_4000 --from-bp 22137640 --to-bp 22141640
+vcftools --vcf chr 8 _loc22139640_4000.recode.vcf --012 --out chr 8 _loc22139640_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22139948_4000 --from-bp 22137948 --to-bp 22141948
+vcftools --vcf chr 8 _loc22139948_4000.recode.vcf --012 --out chr 8 _loc22139948_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22140256_4000 --from-bp 22138256 --to-bp 22142256
+vcftools --vcf chr 8 _loc22140256_4000.recode.vcf --012 --out chr 8 _loc22140256_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22140564_4000 --from-bp 22138564 --to-bp 22142564
+vcftools --vcf chr 8 _loc22140564_4000.recode.vcf --012 --out chr 8 _loc22140564_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22140872_4000 --from-bp 22138872 --to-bp 22142872
+vcftools --vcf chr 8 _loc22140872_4000.recode.vcf --012 --out chr 8 _loc22140872_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22141180_4000 --from-bp 22139180 --to-bp 22143180
+vcftools --vcf chr 8 _loc22141180_4000.recode.vcf --012 --out chr 8 _loc22141180_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22145192_4000 --from-bp 22143192 --to-bp 22147192
+vcftools --vcf chr 8 _loc22145192_4000.recode.vcf --012 --out chr 8 _loc22145192_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22904852_4000 --from-bp 22902852 --to-bp 22906852
+vcftools --vcf chr 8 _loc22904852_4000.recode.vcf --012 --out chr 8 _loc22904852_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22905160_4000 --from-bp 22903160 --to-bp 22907160
+vcftools --vcf chr 8 _loc22905160_4000.recode.vcf --012 --out chr 8 _loc22905160_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22905468_4000 --from-bp 22903468 --to-bp 22907468
+vcftools --vcf chr 8 _loc22905468_4000.recode.vcf --012 --out chr 8 _loc22905468_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22905780_4000 --from-bp 22903780 --to-bp 22907780
+vcftools --vcf chr 8 _loc22905780_4000.recode.vcf --012 --out chr 8 _loc22905780_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22906088_4000 --from-bp 22904088 --to-bp 22908088
+vcftools --vcf chr 8 _loc22906088_4000.recode.vcf --012 --out chr 8 _loc22906088_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22906396_4000 --from-bp 22904396 --to-bp 22908396
+vcftools --vcf chr 8 _loc22906396_4000.recode.vcf --012 --out chr 8 _loc22906396_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22906704_4000 --from-bp 22904704 --to-bp 22908704
+vcftools --vcf chr 8 _loc22906704_4000.recode.vcf --012 --out chr 8 _loc22906704_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22907012_4000 --from-bp 22905012 --to-bp 22909012
+vcftools --vcf chr 8 _loc22907012_4000.recode.vcf --012 --out chr 8 _loc22907012_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22907320_4000 --from-bp 22905320 --to-bp 22909320
+vcftools --vcf chr 8 _loc22907320_4000.recode.vcf --012 --out chr 8 _loc22907320_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22907628_4000 --from-bp 22905628 --to-bp 22909628
+vcftools --vcf chr 8 _loc22907628_4000.recode.vcf --012 --out chr 8 _loc22907628_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22907936_4000 --from-bp 22905936 --to-bp 22909936
+vcftools --vcf chr 8 _loc22907936_4000.recode.vcf --012 --out chr 8 _loc22907936_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22908244_4000 --from-bp 22906244 --to-bp 22910244
+vcftools --vcf chr 8 _loc22908244_4000.recode.vcf --012 --out chr 8 _loc22908244_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22908556_4000 --from-bp 22906556 --to-bp 22910556
+vcftools --vcf chr 8 _loc22908556_4000.recode.vcf --012 --out chr 8 _loc22908556_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22908864_4000 --from-bp 22906864 --to-bp 22910864
+vcftools --vcf chr 8 _loc22908864_4000.recode.vcf --012 --out chr 8 _loc22908864_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22909172_4000 --from-bp 22907172 --to-bp 22911172
+vcftools --vcf chr 8 _loc22909172_4000.recode.vcf --012 --out chr 8 _loc22909172_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22909480_4000 --from-bp 22907480 --to-bp 22911480
+vcftools --vcf chr 8 _loc22909480_4000.recode.vcf --012 --out chr 8 _loc22909480_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22909788_4000 --from-bp 22907788 --to-bp 22911788
+vcftools --vcf chr 8 _loc22909788_4000.recode.vcf --012 --out chr 8 _loc22909788_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22910096_4000 --from-bp 22908096 --to-bp 22912096
+vcftools --vcf chr 8 _loc22910096_4000.recode.vcf --012 --out chr 8 _loc22910096_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22914108_4000 --from-bp 22912108 --to-bp 22916108
+vcftools --vcf chr 8 _loc22914108_4000.recode.vcf --012 --out chr 8 _loc22914108_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22914416_4000 --from-bp 22912416 --to-bp 22916416
+vcftools --vcf chr 8 _loc22914416_4000.recode.vcf --012 --out chr 8 _loc22914416_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22914724_4000 --from-bp 22912724 --to-bp 22916724
+vcftools --vcf chr 8 _loc22914724_4000.recode.vcf --012 --out chr 8 _loc22914724_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22915032_4000 --from-bp 22913032 --to-bp 22917032
+vcftools --vcf chr 8 _loc22915032_4000.recode.vcf --012 --out chr 8 _loc22915032_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22915340_4000 --from-bp 22913340 --to-bp 22917340
+vcftools --vcf chr 8 _loc22915340_4000.recode.vcf --012 --out chr 8 _loc22915340_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22915648_4000 --from-bp 22913648 --to-bp 22917648
+vcftools --vcf chr 8 _loc22915648_4000.recode.vcf --012 --out chr 8 _loc22915648_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22915956_4000 --from-bp 22913956 --to-bp 22917956
+vcftools --vcf chr 8 _loc22915956_4000.recode.vcf --012 --out chr 8 _loc22915956_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22916264_4000 --from-bp 22914264 --to-bp 22918264
+vcftools --vcf chr 8 _loc22916264_4000.recode.vcf --012 --out chr 8 _loc22916264_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22916572_4000 --from-bp 22914572 --to-bp 22918572
+vcftools --vcf chr 8 _loc22916572_4000.recode.vcf --012 --out chr 8 _loc22916572_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22916880_4000 --from-bp 22914880 --to-bp 22918880
+vcftools --vcf chr 8 _loc22916880_4000.recode.vcf --012 --out chr 8 _loc22916880_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22917192_4000 --from-bp 22915192 --to-bp 22919192
+vcftools --vcf chr 8 _loc22917192_4000.recode.vcf --012 --out chr 8 _loc22917192_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22917500_4000 --from-bp 22915500 --to-bp 22919500
+vcftools --vcf chr 8 _loc22917500_4000.recode.vcf --012 --out chr 8 _loc22917500_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22917808_4000 --from-bp 22915808 --to-bp 22919808
+vcftools --vcf chr 8 _loc22917808_4000.recode.vcf --012 --out chr 8 _loc22917808_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22918116_4000 --from-bp 22916116 --to-bp 22920116
+vcftools --vcf chr 8 _loc22918116_4000.recode.vcf --012 --out chr 8 _loc22918116_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22918424_4000 --from-bp 22916424 --to-bp 22920424
+vcftools --vcf chr 8 _loc22918424_4000.recode.vcf --012 --out chr 8 _loc22918424_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22918732_4000 --from-bp 22916732 --to-bp 22920732
+vcftools --vcf chr 8 _loc22918732_4000.recode.vcf --012 --out chr 8 _loc22918732_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22919040_4000 --from-bp 22917040 --to-bp 22921040
+vcftools --vcf chr 8 _loc22919040_4000.recode.vcf --012 --out chr 8 _loc22919040_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22919348_4000 --from-bp 22917348 --to-bp 22921348
+vcftools --vcf chr 8 _loc22919348_4000.recode.vcf --012 --out chr 8 _loc22919348_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22919656_4000 --from-bp 22917656 --to-bp 22921656
+vcftools --vcf chr 8 _loc22919656_4000.recode.vcf --012 --out chr 8 _loc22919656_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22919968_4000 --from-bp 22917968 --to-bp 22921968
+vcftools --vcf chr 8 _loc22919968_4000.recode.vcf --012 --out chr 8 _loc22919968_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22920276_4000 --from-bp 22918276 --to-bp 22922276
+vcftools --vcf chr 8 _loc22920276_4000.recode.vcf --012 --out chr 8 _loc22920276_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22920584_4000 --from-bp 22918584 --to-bp 22922584
+vcftools --vcf chr 8 _loc22920584_4000.recode.vcf --012 --out chr 8 _loc22920584_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22920892_4000 --from-bp 22918892 --to-bp 22922892
+vcftools --vcf chr 8 _loc22920892_4000.recode.vcf --012 --out chr 8 _loc22920892_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22921200_4000 --from-bp 22919200 --to-bp 22923200
+vcftools --vcf chr 8 _loc22921200_4000.recode.vcf --012 --out chr 8 _loc22921200_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22921508_4000 --from-bp 22919508 --to-bp 22923508
+vcftools --vcf chr 8 _loc22921508_4000.recode.vcf --012 --out chr 8 _loc22921508_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22921816_4000 --from-bp 22919816 --to-bp 22923816
+vcftools --vcf chr 8 _loc22921816_4000.recode.vcf --012 --out chr 8 _loc22921816_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc22922124_4000 --from-bp 22920124 --to-bp 22924124
+vcftools --vcf chr 8 _loc22922124_4000.recode.vcf --012 --out chr 8 _loc22922124_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc24690352_4000 --from-bp 24688352 --to-bp 24692352
+vcftools --vcf chr 8 _loc24690352_4000.recode.vcf --012 --out chr 8 _loc24690352_4000
+vcftools --vcf out_all12_freebayes_chr8.recode.vcf --chr AT_V4_CHR08 --recode --out chr8_loc25135416_4000 --from-bp 25133416 --to-bp 25137416
+vcftools --vcf chr 8 _loc25135416_4000.recode.vcf --012 --out chr 8 _loc25135416_4000

@@ -1,0 +1,17 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf out_all12_freebayes_chr8.recode.vcf
+	--chr AT_V4_CHR08
+	--to-bp 8537739
+	--out chr8_loc8535739_4000
+	--recode
+	--from-bp 8533739
+
+After filtering, kept 12 out of 12 Individuals
+Outputting VCF file...
+After filtering, kept 0 out of a possible 118629 Sites
+No data left for analysis!
+Run Time = 1.00 seconds

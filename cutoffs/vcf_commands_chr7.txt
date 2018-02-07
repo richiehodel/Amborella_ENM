@@ -1,0 +1,8 @@
+vcftools --vcf out_all12_freebayes_chr7.recode.vcf --chr AT_V4_CHR07 --recode --out chr7_loc2225835_4000 --from-bp 2223835 --to-bp 2227835
+vcftools --vcf chr 7 _loc2225835_4000.recode.vcf --012 --out chr 7 _loc2225835_4000
+vcftools --vcf out_all12_freebayes_chr7.recode.vcf --chr AT_V4_CHR07 --recode --out chr7_loc5354765_4000 --from-bp 5352765 --to-bp 5356765
+vcftools --vcf chr 7 _loc5354765_4000.recode.vcf --012 --out chr 7 _loc5354765_4000
+vcftools --vcf out_all12_freebayes_chr7.recode.vcf --chr AT_V4_CHR07 --recode --out chr7_loc14758988_4000 --from-bp 14756988 --to-bp 14760988
+vcftools --vcf chr 7 _loc14758988_4000.recode.vcf --012 --out chr 7 _loc14758988_4000
+vcftools --vcf out_all12_freebayes_chr7.recode.vcf --chr AT_V4_CHR07 --recode --out chr7_loc26844222_4000 --from-bp 26842222 --to-bp 26846222
+vcftools --vcf chr 7 _loc26844222_4000.recode.vcf --012 --out chr 7 _loc26844222_4000

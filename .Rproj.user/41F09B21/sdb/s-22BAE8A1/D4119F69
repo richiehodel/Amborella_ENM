@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "####################################################################\n###################################################################\n\n\nfreqs <- read.table(\"/Users/richiehodel/Desktop/Amborella_ENM/freq_list.txt\",\n                    header=TRUE)\n\nfreqs$locality <- freqs$ind_names\n\nboth <- merge(ambo_data, freqs)\n\n# slope removed because it was uniformative at the 12 sampling locations\nboth$slope_var <- NULL\n\nlibrary(plyr)\nboth <- rename(both, c('alt'='Elevation (m)'))\nboth <- rename(both, c('bio1'='Annual Mean Temperature (ºC)'))\nboth <- rename(both, c('bio2'='Mean Diurnal Temperature Range (ºC)'))\nboth <- rename(both, c('bio3'='Isothermality'))\nboth <- rename(both, c('bio4'='Temperature Seasonality'))\nboth <- rename(both, c('bio12'='Annual Precipitation (mm)'))\nboth <- rename(both, c('bio15'='Precipitation Seasonality'))\nboth <- rename(both, c('soil_var'='Soil Type'))\nboth <- rename(both, c('asp_n_var'='North Aspect Slope'))\nboth <- rename(both, c('asp_e_var'='East Aspect Slope'))\nboth <- rename(both, c('asp_w_var'='West Aspect Slope'))\nboth <- rename(both, c('asp_s_var'='South Aspect Slope'))\nboth <- rename(both, c('biomax'='Habitat Suitability'))\n\n# adjusting values to degrees--raw layers are in ((degrees C)*10)\nboth$`Annual Mean Temperature` <- both$`Annual Mean Temperature`/10\nboth$`Mean Diurnal Temperature Range` <- both$`Mean Diurnal Temperature Range`/10\nboth$`Temperature Seasonality` <- both$`Temperature Seasonality`/10\n\nsetwd(\"/Users/richiehodel/Desktop/Amborella_ENM/correlation_plots/\")\n\nfor (j in 18:138){\n    for (i in 4:16){\n      \n  modd <- lm(both[,i] ~ both[,j])\n  placeholder <- summary(modd)\n\n  sig <- placeholder$coefficients[8]\n  r2 <-   placeholder$r.squared\n  \n  if(sig<0.05){\n  write.table(colnames(both)[j],file=\"correlations_significant.txt\",quote=F,append=T,\n              col.names = F,row.names = F)\n   write.table(colnames(both)[i],file=\"correlations_significant.txt\",quote=F,append=T,\n                col.names = F,row.names = F)\n  write.table(placeholder$coefficients[8],file=\"correlations_significant.txt\",quote=F,\n              append=T,col.names = F,row.names = F)\n\n  r2 <- signif(r2, digits=3)\n  sig <- signif(sig, digits=3)\n  r2title <- paste(\"R-squared = \",r2, sep=\"\")\n  sigtitle <- paste(\", p-value = \",sig, sep=\"\")\n  title <- paste(colnames(both[j]),\" (\",r2title,sigtitle,\")\", sep=\"\")\n  \n  plot = ggplot(data=both) + xlab(\"Allele Frequency\") + \n    ylab(colnames(both[i])) +\n    ggtitle(title) +\n    theme_bw() +\n    geom_point(aes(both[,j], both[,i]),\n               alpha=1, shape=19, size=2) +\n    geom_smooth(aes(both[,j], both[,i]),method=lm)\n  \n  plot + theme(axis.ticks = element_blank())  +\n    theme(axis.text=element_text(size=12), axis.title=element_text(size=14,face=\"bold\")) +\n    theme(legend.position=\"top\") + theme(plot.title = element_text(size = 16, face = \"bold\")) \n  \n  #make var to be file name\n  both[i]\n  file_handle <- paste(colnames(both[i]),\" vs \",colnames(both[j]),\".pdf\",sep=\"\")\n # file_handle\n  ggsave(file_handle)\n  \n  \n  }\n    }\n}\n########################################################\n\n",
+    "created" : 1518018135841.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2189720010",
+    "id" : "D4119F69",
+    "lastKnownWriteTime" : 1518026529,
+    "last_content_update" : 1518026529744,
+    "path" : "~/Desktop/Amborella_ENM/Correlation.R",
+    "project_path" : "Correlation.R",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
